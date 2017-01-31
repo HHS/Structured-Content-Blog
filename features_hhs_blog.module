@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Features HHS Blog feature.
+ */
+
+include_once 'features_hhs_blog.features.inc';
