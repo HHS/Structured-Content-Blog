@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HHS.Gov Content Types Internal Blog feature.
+ */
+
+include_once 'hhs_gov_content_types_internal_blog.features.inc';

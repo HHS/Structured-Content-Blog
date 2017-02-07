@@ -13,8 +13,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed risus ipsum, tristi
 <h3>Dependencies</h3>
 List dependencies on other Drupal modules, libraries, etc
 
+ Chaos tools	
+- Date	
+- Display Suite	
+- Entity Reference	
+- Features		
+- Media			
+- Strongarm	
+
 <h3>Installation Procedures</h3>
 List installation steps...
+
+https://www.drupal.org/docs/7/extending-drupal-7/installing-contributed-modules-find-import-enable-configure-drupal-7 
 
 <h2>For More Information</h2>
 contact us for more details... etc
